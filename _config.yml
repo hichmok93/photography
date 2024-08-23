@@ -1,20 +1,20 @@
 # Base configs
-baseurl: "/hichmok93.github.io/photography"
+baseurl: ""
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
 
 # UI configs
-title: "Photography by Leon Joanknecht""
+title: "Photography by Leon Joanknecht"
 subtitle: "See the world through my eyes!"
-author: "Leon Joanknecht""
-header:
+author: "Leon Joanknecht"
+header: 
  title: "Photography"
  subtitle: "by Leon Joanknecht"
 footer:
  name: "Hello kind people!"
- bio: "My bio <a href=\"https://hichmok93.github.io/photography\">fork this repo on github</a> ;)"
+ bio: ""
 web_design: "HM"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
