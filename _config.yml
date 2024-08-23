@@ -1,9 +1,9 @@
 # Base configs
-baseurl: "hichmok93.github.io/photography"
+baseurl: ""
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+google_analytics: ""
 
 # UI configs
 title: "Photography by Ram Patra"
@@ -26,3 +26,5 @@ social_urls:
   dribbble: "https://dribbble.com/rampatra"
   linkedin: "https://in.linkedin.com/in/ram-patra"
   github: "https://www.github.com/rampatra"
+
+log_level: warn
