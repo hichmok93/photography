@@ -3,7 +3,7 @@ baseurl: "https://hichmok93.github.io/photography"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: ""
+
 
 # UI configs
 title: "Photography by Leon Joanknecht"
@@ -27,3 +27,4 @@ social_urls:
   github: "https://hichmok93.github.io/photography"
 
 log_level: warn
+
